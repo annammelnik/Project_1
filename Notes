@@ -1,0 +1,45 @@
+Need to use:
+1. Pandas
+2. Jupyter Notebook
+3. 6-8 Matplotlib visualizations
+	3a. 2 visualizations per data "questions"
+	3b. png images 
+4. Use at least one API 
+
+Want to use:
+1. use CSV file to create a df
+2. merge data
+3. create a new csv file from merged data to analyze further
+
+Rubric at a Glance:
+1. GitHub Repo (20)
+2. Visualizations (20)
+3. Analysis and conclusion (20)
+4. Group presentation (20)
+5. Slide deck (20)
+
+What do we want to analyze about movies?
+
+The goal is to provide data for an action movie producer to create the highest rated, most profitable movie possible
+
+Pitching to: Action Movie Producer
+
+1. analyze the number of explosions 
+	a. compare number of explosions, budget, gross revenue, and net revenue to determine the best number of explosions for a profitable movie
+
+2. analyze actors who've acted in the most action movies and compare number of appearances to the revenue/profit of those movies
+
+3. analyze ratings vs. revenue
+
+4.  Film location
+
+types of analysts 
+1. return on investment 
+	a. locations
+	b. actors
+	c. movie features (explosions)
+	d. runtime
+	e. pitch genres
+We need to merge all data into the smallest by movie title, so that only the ones in that dataset are analyzed
+
+Remove foreign movies via spoken language column 
