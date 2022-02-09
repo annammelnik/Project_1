@@ -1,0 +1,450 @@
+year_film,year_ceremony,ceremony,category,name,film,winner
+1927,1928,1,ACTOR,Emil Jannings,The Last Command,TRUE
+1927,1928,1,ACTRESS,Janet Gaynor,7th Heaven,TRUE
+1928,1929,2,ACTOR,Warner Baxter,In Old Arizona,TRUE
+1928,1929,2,ACTRESS,Mary Pickford,Coquette,TRUE
+1929,1930,3,ACTOR,George Arliss,Disraeli,TRUE
+1929,1930,3,ACTRESS,Norma Shearer,The Divorcee,TRUE
+1930,1931,4,ACTOR,Lionel Barrymore,A Free Soul,TRUE
+1930,1931,4,ACTRESS,Marie Dressler,Min and Bill,TRUE
+1931,1932,5,ACTOR,Wallace Beery,The Champ,TRUE
+1931,1932,5,ACTOR,Fredric March,Dr. Jekyll and Mr. Hyde,TRUE
+1931,1932,5,ACTRESS,Helen Hayes,The Sin of Madelon Claudet,TRUE
+1932,1933,6,ACTOR,Charles Laughton,The Private Life of Henry VIII,TRUE
+1932,1933,6,ACTRESS,Katharine Hepburn,Morning Glory,TRUE
+1934,1935,7,ACTOR,Clark Gable,It Happened One Night,TRUE
+1934,1935,7,ACTRESS,Claudette Colbert,It Happened One Night,TRUE
+1935,1936,8,ACTOR,Victor McLaglen,The Informer,TRUE
+1935,1936,8,ACTRESS,Bette Davis,Dangerous,TRUE
+1936,1937,9,ACTOR,Paul Muni,The Story of Louis Pasteur,TRUE
+1936,1937,9,ACTOR IN A SUPPORTING ROLE,Walter Brennan,Come and Get It,TRUE
+1936,1937,9,ACTRESS,Luise Rainer,The Great Ziegfeld,TRUE
+1936,1937,9,ACTRESS IN A SUPPORTING ROLE,Gale Sondergaard,Anthony Adverse,TRUE
+1937,1938,10,ACTOR,Spencer Tracy,Captains Courageous,TRUE
+1937,1938,10,ACTOR IN A SUPPORTING ROLE,Joseph Schildkraut,The Life of Emile Zola,TRUE
+1937,1938,10,ACTRESS,Luise Rainer,The Good Earth,TRUE
+1937,1938,10,ACTRESS IN A SUPPORTING ROLE,Alice Brady,In Old Chicago,TRUE
+1938,1939,11,ACTOR,Spencer Tracy,Boys Town,TRUE
+1938,1939,11,ACTOR IN A SUPPORTING ROLE,Walter Brennan,Kentucky,TRUE
+1938,1939,11,ACTRESS,Bette Davis,Jezebel,TRUE
+1938,1939,11,ACTRESS IN A SUPPORTING ROLE,Fay Bainter,Jezebel,TRUE
+1939,1940,12,ACTOR,Robert Donat,"Goodbye, Mr. Chips",TRUE
+1939,1940,12,ACTOR IN A SUPPORTING ROLE,Thomas Mitchell,Stagecoach,TRUE
+1939,1940,12,ACTRESS,Vivien Leigh,Gone with the Wind,TRUE
+1939,1940,12,ACTRESS IN A SUPPORTING ROLE,Hattie McDaniel,Gone with the Wind,TRUE
+1940,1941,13,ACTOR,James Stewart,The Philadelphia Story,TRUE
+1940,1941,13,ACTOR IN A SUPPORTING ROLE,Walter Brennan,The Westerner,TRUE
+1940,1941,13,ACTRESS,Ginger Rogers,Kitty Foyle,TRUE
+1940,1941,13,ACTRESS IN A SUPPORTING ROLE,Jane Darwell,The Grapes of Wrath,TRUE
+1941,1942,14,ACTOR,Gary Cooper,Sergeant York,TRUE
+1941,1942,14,ACTOR IN A SUPPORTING ROLE,Donald Crisp,How Green Was My Valley,TRUE
+1941,1942,14,ACTRESS,Joan Fontaine,Suspicion,TRUE
+1941,1942,14,ACTRESS IN A SUPPORTING ROLE,Mary Astor,The Great Lie,TRUE
+1942,1943,15,ACTOR,James Cagney,Yankee Doodle Dandy,TRUE
+1942,1943,15,ACTOR IN A SUPPORTING ROLE,Van Heflin,Johnny Eager,TRUE
+1942,1943,15,ACTRESS,Greer Garson,Mrs. Miniver,TRUE
+1942,1943,15,ACTRESS IN A SUPPORTING ROLE,Teresa Wright,Mrs. Miniver,TRUE
+1943,1944,16,ACTOR,Paul Lukas,Watch on the Rhine,TRUE
+1943,1944,16,ACTOR IN A SUPPORTING ROLE,Charles Coburn,The More the Merrier,TRUE
+1943,1944,16,ACTRESS,Jennifer Jones,The Song of Bernadette,TRUE
+1943,1944,16,ACTRESS IN A SUPPORTING ROLE,Katina Paxinou,For Whom the Bell Tolls,TRUE
+1944,1945,17,ACTOR,Bing Crosby,Going My Way,TRUE
+1944,1945,17,ACTOR IN A SUPPORTING ROLE,Barry Fitzgerald,Going My Way,TRUE
+1944,1945,17,ACTRESS,Ingrid Bergman,Gaslight,TRUE
+1944,1945,17,ACTRESS IN A SUPPORTING ROLE,Ethel Barrymore,None but the Lonely Heart,TRUE
+1944,1945,17,BEST MOTION PICTURE,Paramount,Going My Way,TRUE
+1945,1946,18,ACTOR,Ray Milland,The Lost Weekend,TRUE
+1945,1946,18,ACTOR IN A SUPPORTING ROLE,James Dunn,A Tree Grows in Brooklyn,TRUE
+1945,1946,18,ACTRESS,Joan Crawford,Mildred Pierce,TRUE
+1945,1946,18,ACTRESS IN A SUPPORTING ROLE,Anne Revere,National Velvet,TRUE
+1945,1946,18,BEST MOTION PICTURE,Paramount,The Lost Weekend,TRUE
+1946,1947,19,ACTOR,Fredric March,The Best Years of Our Lives,TRUE
+1946,1947,19,ACTOR IN A SUPPORTING ROLE,Harold Russell,The Best Years of Our Lives,TRUE
+1946,1947,19,ACTRESS,Olivia de Havilland,To Each His Own,TRUE
+1946,1947,19,ACTRESS IN A SUPPORTING ROLE,Anne Baxter,The Razor's Edge,TRUE
+1946,1947,19,BEST MOTION PICTURE,Samuel Goldwyn Productions,The Best Years of Our Lives,TRUE
+1947,1948,20,ACTOR,Ronald Colman,A Double Life,TRUE
+1947,1948,20,ACTOR IN A SUPPORTING ROLE,Edmund Gwenn,Miracle on 34th Street,TRUE
+1947,1948,20,ACTRESS,Loretta Young,The Farmer's Daughter,TRUE
+1947,1948,20,ACTRESS IN A SUPPORTING ROLE,Celeste Holm,Gentleman's Agreement,TRUE
+1947,1948,20,BEST MOTION PICTURE,20th Century-Fox,Gentleman's Agreement,TRUE
+1948,1949,21,ACTOR,Laurence Olivier,Hamlet,TRUE
+1948,1949,21,ACTOR IN A SUPPORTING ROLE,Walter Huston,The Treasure of the Sierra Madre,TRUE
+1948,1949,21,ACTRESS,Jane Wyman,Johnny Belinda,TRUE
+1948,1949,21,ACTRESS IN A SUPPORTING ROLE,Claire Trevor,Key Largo,TRUE
+1948,1949,21,BEST MOTION PICTURE,J. Arthur Rank-Two Cities Films,Hamlet,TRUE
+1949,1950,22,ACTOR,Broderick Crawford,All the King's Men,TRUE
+1949,1950,22,ACTOR IN A SUPPORTING ROLE,Dean Jagger,Twelve O'Clock High,TRUE
+1949,1950,22,ACTRESS,Olivia de Havilland,The Heiress,TRUE
+1949,1950,22,ACTRESS IN A SUPPORTING ROLE,Mercedes McCambridge,All the King's Men,TRUE
+1949,1950,22,BEST MOTION PICTURE,Robert Rossen Productions,All the King's Men,TRUE
+1950,1951,23,ACTOR,José Ferrer,Cyrano de Bergerac,TRUE
+1950,1951,23,ACTOR IN A SUPPORTING ROLE,George Sanders,All about Eve,TRUE
+1950,1951,23,ACTRESS,Judy Holliday,Born Yesterday,TRUE
+1950,1951,23,ACTRESS IN A SUPPORTING ROLE,Josephine Hull,Harvey,TRUE
+1950,1951,23,BEST MOTION PICTURE,20th Century-Fox,All about Eve,TRUE
+1951,1952,24,ACTOR,Humphrey Bogart,The African Queen,TRUE
+1951,1952,24,ACTOR IN A SUPPORTING ROLE,Karl Malden,A Streetcar Named Desire,TRUE
+1951,1952,24,ACTRESS,Vivien Leigh,A Streetcar Named Desire,TRUE
+1951,1952,24,ACTRESS IN A SUPPORTING ROLE,Kim Hunter,A Streetcar Named Desire,TRUE
+1951,1952,24,BEST MOTION PICTURE,"Arthur Freed, Producer",An American in Paris,TRUE
+1952,1953,25,ACTOR,Gary Cooper,High Noon,TRUE
+1952,1953,25,ACTOR IN A SUPPORTING ROLE,Anthony Quinn,Viva Zapata!,TRUE
+1952,1953,25,ACTRESS,Shirley Booth,"Come Back, Little Sheba",TRUE
+1952,1953,25,ACTRESS IN A SUPPORTING ROLE,Gloria Grahame,The Bad and the Beautiful,TRUE
+1952,1953,25,BEST MOTION PICTURE,"Cecil B. DeMille, Producer",The Greatest Show on Earth,TRUE
+1953,1954,26,ACTOR,William Holden,Stalag 17,TRUE
+1953,1954,26,ACTOR IN A SUPPORTING ROLE,Frank Sinatra,From Here to Eternity,TRUE
+1953,1954,26,ACTRESS,Audrey Hepburn,Roman Holiday,TRUE
+1953,1954,26,ACTRESS IN A SUPPORTING ROLE,Donna Reed,From Here to Eternity,TRUE
+1953,1954,26,BEST MOTION PICTURE,"Buddy Adler, Producer",From Here to Eternity,TRUE
+1954,1955,27,ACTOR,Marlon Brando,On the Waterfront,TRUE
+1954,1955,27,ACTOR IN A SUPPORTING ROLE,Edmond O'Brien,The Barefoot Contessa,TRUE
+1954,1955,27,ACTRESS,Grace Kelly,The Country Girl,TRUE
+1954,1955,27,ACTRESS IN A SUPPORTING ROLE,Eva Marie Saint,On the Waterfront,TRUE
+1954,1955,27,BEST MOTION PICTURE,"Sam Spiegel, Producer",On the Waterfront,TRUE
+1955,1956,28,ACTOR,Ernest Borgnine,Marty,TRUE
+1955,1956,28,ACTOR IN A SUPPORTING ROLE,Jack Lemmon,Mister Roberts,TRUE
+1955,1956,28,ACTRESS,Anna Magnani,The Rose Tattoo,TRUE
+1955,1956,28,ACTRESS IN A SUPPORTING ROLE,Jo Van Fleet,East of Eden,TRUE
+1955,1956,28,BEST MOTION PICTURE,"Harold Hecht, Producer",Marty,TRUE
+1956,1957,29,ACTOR,Yul Brynner,The King and I,TRUE
+1956,1957,29,ACTOR IN A SUPPORTING ROLE,Anthony Quinn,Lust for Life,TRUE
+1956,1957,29,ACTRESS,Ingrid Bergman,Anastasia,TRUE
+1956,1957,29,ACTRESS IN A SUPPORTING ROLE,Dorothy Malone,Written on the Wind,TRUE
+1956,1957,29,BEST MOTION PICTURE,"Michael Todd, Producer",Around the World in 80 Days,TRUE
+1957,1958,30,ACTOR,Alec Guinness,The Bridge on the River Kwai,TRUE
+1957,1958,30,ACTOR IN A SUPPORTING ROLE,Red Buttons,Sayonara,TRUE
+1957,1958,30,ACTRESS,Joanne Woodward,The Three Faces of Eve,TRUE
+1957,1958,30,ACTRESS IN A SUPPORTING ROLE,Miyoshi Umeki,Sayonara,TRUE
+1957,1958,30,BEST MOTION PICTURE,"Sam Spiegel, Producer",The Bridge on the River Kwai,TRUE
+1958,1959,31,ACTOR,David Niven,Separate Tables,TRUE
+1958,1959,31,ACTOR IN A SUPPORTING ROLE,Burl Ives,The Big Country,TRUE
+1958,1959,31,ACTRESS,Susan Hayward,I Want to Live!,TRUE
+1958,1959,31,ACTRESS IN A SUPPORTING ROLE,Wendy Hiller,Separate Tables,TRUE
+1958,1959,31,BEST MOTION PICTURE,"Arthur Freed, Producer",Gigi,TRUE
+1959,1960,32,ACTOR,Charlton Heston,Ben-Hur,TRUE
+1959,1960,32,ACTOR IN A SUPPORTING ROLE,Hugh Griffith,Ben-Hur,TRUE
+1959,1960,32,ACTRESS,Simone Signoret,Room at the Top,TRUE
+1959,1960,32,ACTRESS IN A SUPPORTING ROLE,Shelley Winters,The Diary of Anne Frank,TRUE
+1959,1960,32,BEST MOTION PICTURE,"Sam Zimbalist, Producer",Ben-Hur,TRUE
+1960,1961,33,ACTOR,Burt Lancaster,Elmer Gantry,TRUE
+1960,1961,33,ACTOR IN A SUPPORTING ROLE,Peter Ustinov,Spartacus,TRUE
+1960,1961,33,ACTRESS,Elizabeth Taylor,Butterfield 8,TRUE
+1960,1961,33,ACTRESS IN A SUPPORTING ROLE,Shirley Jones,Elmer Gantry,TRUE
+1960,1961,33,BEST MOTION PICTURE,"Billy Wilder, Producer",The Apartment,TRUE
+1961,1962,34,ACTOR,Maximilian Schell,Judgment at Nuremberg,TRUE
+1961,1962,34,ACTOR IN A SUPPORTING ROLE,George Chakiris,West Side Story,TRUE
+1961,1962,34,ACTRESS,Sophia Loren,Two Women,TRUE
+1961,1962,34,ACTRESS IN A SUPPORTING ROLE,Rita Moreno,West Side Story,TRUE
+1961,1962,34,BEST MOTION PICTURE,"Robert Wise, Producer",West Side Story,TRUE
+1962,1963,35,ACTOR,Gregory Peck,To Kill a Mockingbird,TRUE
+1962,1963,35,ACTOR IN A SUPPORTING ROLE,Ed Begley,Sweet Bird of Youth,TRUE
+1962,1963,35,ACTRESS,Anne Bancroft,The Miracle Worker,TRUE
+1962,1963,35,ACTRESS IN A SUPPORTING ROLE,Patty Duke,The Miracle Worker,TRUE
+1962,1963,35,BEST PICTURE,"Sam Spiegel, Producer",Lawrence of Arabia,TRUE
+1963,1964,36,ACTOR,Sidney Poitier,Lilies of the Field,TRUE
+1963,1964,36,ACTOR IN A SUPPORTING ROLE,Melvyn Douglas,Hud,TRUE
+1963,1964,36,ACTRESS,Patricia Neal,Hud,TRUE
+1963,1964,36,ACTRESS IN A SUPPORTING ROLE,Margaret Rutherford,The V.I.P.s,TRUE
+1963,1964,36,BEST PICTURE,"Tony Richardson, Producer",Tom Jones,TRUE
+1964,1965,37,ACTOR,Rex Harrison,My Fair Lady,TRUE
+1964,1965,37,ACTOR IN A SUPPORTING ROLE,Peter Ustinov,Topkapi,TRUE
+1964,1965,37,ACTRESS,Julie Andrews,Mary Poppins,TRUE
+1964,1965,37,ACTRESS IN A SUPPORTING ROLE,Lila Kedrova,Zorba the Greek,TRUE
+1964,1965,37,BEST PICTURE,"Jack L. Warner, Producer",My Fair Lady,TRUE
+1965,1966,38,ACTOR,Lee Marvin,Cat Ballou,TRUE
+1965,1966,38,ACTOR IN A SUPPORTING ROLE,Martin Balsam,A Thousand Clowns,TRUE
+1965,1966,38,ACTRESS,Julie Christie,Darling,TRUE
+1965,1966,38,ACTRESS IN A SUPPORTING ROLE,Shelley Winters,A Patch of Blue,TRUE
+1965,1966,38,BEST PICTURE,"Robert Wise, Producer",The Sound of Music,TRUE
+1966,1967,39,ACTOR,Paul Scofield,A Man for All Seasons,TRUE
+1966,1967,39,ACTOR IN A SUPPORTING ROLE,Walter Matthau,The Fortune Cookie,TRUE
+1966,1967,39,ACTRESS,Elizabeth Taylor,Who's Afraid of Virginia Woolf?,TRUE
+1966,1967,39,ACTRESS IN A SUPPORTING ROLE,Sandy Dennis,Who's Afraid of Virginia Woolf?,TRUE
+1966,1967,39,BEST PICTURE,"Fred Zinnemann, Producer",A Man for All Seasons,TRUE
+1967,1968,40,ACTOR,Rod Steiger,In the Heat of the Night,TRUE
+1967,1968,40,ACTOR IN A SUPPORTING ROLE,George Kennedy,Cool Hand Luke,TRUE
+1967,1968,40,ACTRESS,Katharine Hepburn,Guess Who's Coming to Dinner,TRUE
+1967,1968,40,ACTRESS IN A SUPPORTING ROLE,Estelle Parsons,Bonnie and Clyde,TRUE
+1967,1968,40,BEST PICTURE,"Walter Mirisch, Producer",In the Heat of the Night,TRUE
+1968,1969,41,ACTOR,Cliff Robertson,Charly,TRUE
+1968,1969,41,ACTOR IN A SUPPORTING ROLE,Jack Albertson,The Subject Was Roses,TRUE
+1968,1969,41,ACTRESS,Katharine Hepburn,The Lion in Winter,TRUE
+1968,1969,41,ACTRESS,Barbra Streisand,Funny Girl,TRUE
+1968,1969,41,ACTRESS IN A SUPPORTING ROLE,Ruth Gordon,Rosemary's Baby,TRUE
+1968,1969,41,BEST PICTURE,"John Woolf, Producer",Oliver!,TRUE
+1969,1970,42,ACTOR,John Wayne,True Grit,TRUE
+1969,1970,42,ACTOR IN A SUPPORTING ROLE,Gig Young,"They Shoot Horses, Don't They?",TRUE
+1969,1970,42,ACTRESS,Maggie Smith,The Prime of Miss Jean Brodie,TRUE
+1969,1970,42,ACTRESS IN A SUPPORTING ROLE,Goldie Hawn,Cactus Flower,TRUE
+1969,1970,42,BEST PICTURE,"Jerome Hellman, Producer",Midnight Cowboy,TRUE
+1970,1971,43,ACTOR,George C. Scott,Patton,TRUE
+1970,1971,43,ACTOR IN A SUPPORTING ROLE,John Mills,Ryan's Daughter,TRUE
+1970,1971,43,ACTRESS,Glenda Jackson,Women in Love,TRUE
+1970,1971,43,ACTRESS IN A SUPPORTING ROLE,Helen Hayes,Airport,TRUE
+1970,1971,43,BEST PICTURE,"Frank McCarthy, Producer",Patton,TRUE
+1971,1972,44,ACTOR,Gene Hackman,The French Connection,TRUE
+1971,1972,44,ACTOR IN A SUPPORTING ROLE,Ben Johnson,The Last Picture Show,TRUE
+1971,1972,44,ACTRESS,Jane Fonda,Klute,TRUE
+1971,1972,44,ACTRESS IN A SUPPORTING ROLE,Cloris Leachman,The Last Picture Show,TRUE
+1971,1972,44,BEST PICTURE,"Philip D'Antoni, Producer",The French Connection,TRUE
+1972,1973,45,ACTOR,Marlon Brando,The Godfather,TRUE
+1972,1973,45,ACTOR IN A SUPPORTING ROLE,Joel Grey,Cabaret,TRUE
+1972,1973,45,ACTRESS,Liza Minnelli,Cabaret,TRUE
+1972,1973,45,ACTRESS IN A SUPPORTING ROLE,Eileen Heckart,Butterflies Are Free,TRUE
+1972,1973,45,BEST PICTURE,"Albert S. Ruddy, Producer",The Godfather,TRUE
+1973,1974,46,ACTOR,Jack Lemmon,Save the Tiger,TRUE
+1973,1974,46,ACTOR IN A SUPPORTING ROLE,John Houseman,The Paper Chase,TRUE
+1973,1974,46,ACTRESS,Glenda Jackson,A Touch of Class,TRUE
+1973,1974,46,ACTRESS IN A SUPPORTING ROLE,Tatum O'Neal,Paper Moon,TRUE
+1973,1974,46,BEST PICTURE,"Tony Bill, Michael Phillips and Julia Phillips, Producers",The Sting,TRUE
+1974,1975,47,ACTOR,Art Carney,Harry and Tonto,TRUE
+1974,1975,47,ACTOR IN A SUPPORTING ROLE,Robert De Niro,The Godfather Part II,TRUE
+1974,1975,47,ACTRESS,Ellen Burstyn,Alice Doesn't Live Here Anymore,TRUE
+1974,1975,47,ACTRESS IN A SUPPORTING ROLE,Ingrid Bergman,Murder on the Orient Express,TRUE
+1974,1975,47,BEST PICTURE,"Francis Ford Coppola, Producer;  Gray Frederickson and Fred Roos, Co-Producers",The Godfather Part II,TRUE
+1975,1976,48,ACTOR,Jack Nicholson,One Flew over the Cuckoo's Nest,TRUE
+1975,1976,48,ACTOR IN A SUPPORTING ROLE,George Burns,The Sunshine Boys,TRUE
+1975,1976,48,ACTRESS,Louise Fletcher,One Flew over the Cuckoo's Nest,TRUE
+1975,1976,48,ACTRESS IN A SUPPORTING ROLE,Lee Grant,Shampoo,TRUE
+1975,1976,48,BEST PICTURE,"Saul Zaentz and Michael Douglas, Producers",One Flew over the Cuckoo's Nest,TRUE
+1976,1977,49,ACTOR IN A LEADING ROLE,Peter Finch,Network,TRUE
+1976,1977,49,ACTOR IN A SUPPORTING ROLE,Jason Robards,All the President's Men,TRUE
+1976,1977,49,ACTRESS IN A LEADING ROLE,Faye Dunaway,Network,TRUE
+1976,1977,49,ACTRESS IN A SUPPORTING ROLE,Beatrice Straight,Network,TRUE
+1976,1977,49,BEST PICTURE,"Irwin Winkler and Robert Chartoff, Producers",Rocky,TRUE
+1977,1978,50,ACTOR IN A LEADING ROLE,Richard Dreyfuss,The Goodbye Girl,TRUE
+1977,1978,50,ACTOR IN A SUPPORTING ROLE,Jason Robards,Julia,TRUE
+1977,1978,50,ACTRESS IN A LEADING ROLE,Diane Keaton,Annie Hall,TRUE
+1977,1978,50,ACTRESS IN A SUPPORTING ROLE,Vanessa Redgrave,Julia,TRUE
+1977,1978,50,BEST PICTURE,"Charles H. Joffe, Producer",Annie Hall,TRUE
+1978,1979,51,ACTOR IN A LEADING ROLE,Jon Voight,Coming Home,TRUE
+1978,1979,51,ACTOR IN A SUPPORTING ROLE,Christopher Walken,The Deer Hunter,TRUE
+1978,1979,51,ACTRESS IN A LEADING ROLE,Jane Fonda,Coming Home,TRUE
+1978,1979,51,ACTRESS IN A SUPPORTING ROLE,Maggie Smith,California Suite,TRUE
+1978,1979,51,BEST PICTURE,"Barry Spikings, Michael Deeley, Michael Cimino and John Peverall, Producers",The Deer Hunter,TRUE
+1979,1980,52,ACTOR IN A LEADING ROLE,Dustin Hoffman,Kramer vs. Kramer,TRUE
+1979,1980,52,ACTOR IN A SUPPORTING ROLE,Melvyn Douglas,Being There,TRUE
+1979,1980,52,ACTRESS IN A LEADING ROLE,Sally Field,Norma Rae,TRUE
+1979,1980,52,ACTRESS IN A SUPPORTING ROLE,Meryl Streep,Kramer vs. Kramer,TRUE
+1979,1980,52,BEST PICTURE,"Stanley R. Jaffe, Producer",Kramer vs. Kramer,TRUE
+1980,1981,53,ACTOR IN A LEADING ROLE,Robert De Niro,Raging Bull,TRUE
+1980,1981,53,ACTOR IN A SUPPORTING ROLE,Timothy Hutton,Ordinary People,TRUE
+1980,1981,53,ACTRESS IN A LEADING ROLE,Sissy Spacek,Coal Miner's Daughter,TRUE
+1980,1981,53,ACTRESS IN A SUPPORTING ROLE,Mary Steenburgen,Melvin and Howard,TRUE
+1980,1981,53,BEST PICTURE,"Ronald L. Schwary, Producer",Ordinary People,TRUE
+1981,1982,54,ACTOR IN A LEADING ROLE,Henry Fonda,On Golden Pond,TRUE
+1981,1982,54,ACTOR IN A SUPPORTING ROLE,John Gielgud,Arthur,TRUE
+1981,1982,54,ACTRESS IN A LEADING ROLE,Katharine Hepburn,On Golden Pond,TRUE
+1981,1982,54,ACTRESS IN A SUPPORTING ROLE,Maureen Stapleton,Reds,TRUE
+1981,1982,54,BEST PICTURE,"David Puttnam, Producer",Chariots of Fire,TRUE
+1982,1983,55,ACTOR IN A LEADING ROLE,Ben Kingsley,Gandhi,TRUE
+1982,1983,55,ACTOR IN A SUPPORTING ROLE,"Louis Gossett, Jr.",An Officer and a Gentleman,TRUE
+1982,1983,55,ACTRESS IN A LEADING ROLE,Meryl Streep,Sophie's Choice,TRUE
+1982,1983,55,ACTRESS IN A SUPPORTING ROLE,Jessica Lange,Tootsie,TRUE
+1982,1983,55,BEST PICTURE,"Richard Attenborough, Producer",Gandhi,TRUE
+1983,1984,56,ACTOR IN A LEADING ROLE,Robert Duvall,Tender Mercies,TRUE
+1983,1984,56,ACTOR IN A SUPPORTING ROLE,Jack Nicholson,Terms of Endearment,TRUE
+1983,1984,56,ACTRESS IN A LEADING ROLE,Shirley MacLaine,Terms of Endearment,TRUE
+1983,1984,56,ACTRESS IN A SUPPORTING ROLE,Linda Hunt,The Year of Living Dangerously,TRUE
+1983,1984,56,BEST PICTURE,"James L. Brooks, Producer",Terms of Endearment,TRUE
+1984,1985,57,ACTOR IN A LEADING ROLE,F. Murray Abraham,Amadeus,TRUE
+1984,1985,57,ACTOR IN A SUPPORTING ROLE,Haing S. Ngor,The Killing Fields,TRUE
+1984,1985,57,ACTRESS IN A LEADING ROLE,Sally Field,Places in the Heart,TRUE
+1984,1985,57,ACTRESS IN A SUPPORTING ROLE,Peggy Ashcroft,A Passage to India,TRUE
+1984,1985,57,BEST PICTURE,"Saul Zaentz, Producer",Amadeus,TRUE
+1985,1986,58,ACTOR IN A LEADING ROLE,William Hurt,Kiss of the Spider Woman,TRUE
+1985,1986,58,ACTOR IN A SUPPORTING ROLE,Don Ameche,Cocoon,TRUE
+1985,1986,58,ACTRESS IN A LEADING ROLE,Geraldine Page,The Trip to Bountiful,TRUE
+1985,1986,58,ACTRESS IN A SUPPORTING ROLE,Anjelica Huston,Prizzi's Honor,TRUE
+1985,1986,58,BEST PICTURE,"Sydney Pollack, Producer",Out of Africa,TRUE
+1986,1987,59,ACTOR IN A LEADING ROLE,Paul Newman,The Color of Money,TRUE
+1986,1987,59,ACTOR IN A SUPPORTING ROLE,Michael Caine,Hannah and Her Sisters,TRUE
+1986,1987,59,ACTRESS IN A LEADING ROLE,Marlee Matlin,Children of a Lesser God,TRUE
+1986,1987,59,ACTRESS IN A SUPPORTING ROLE,Dianne Wiest,Hannah and Her Sisters,TRUE
+1986,1987,59,BEST PICTURE,"Arnold Kopelson, Producer",Platoon,TRUE
+1987,1988,60,ACTOR IN A LEADING ROLE,Michael Douglas,Wall Street,TRUE
+1987,1988,60,ACTOR IN A SUPPORTING ROLE,Sean Connery,The Untouchables,TRUE
+1987,1988,60,ACTRESS IN A LEADING ROLE,Cher,Moonstruck,TRUE
+1987,1988,60,ACTRESS IN A SUPPORTING ROLE,Olympia Dukakis,Moonstruck,TRUE
+1987,1988,60,BEST PICTURE,"Jeremy Thomas, Producer",The Last Emperor,TRUE
+1988,1989,61,ACTOR IN A LEADING ROLE,Dustin Hoffman,Rain Man,TRUE
+1988,1989,61,ACTOR IN A SUPPORTING ROLE,Kevin Kline,A Fish Called Wanda,TRUE
+1988,1989,61,ACTRESS IN A LEADING ROLE,Jodie Foster,The Accused,TRUE
+1988,1989,61,ACTRESS IN A SUPPORTING ROLE,Geena Davis,The Accidental Tourist,TRUE
+1988,1989,61,BEST PICTURE,"Mark Johnson, Producer",Rain Man,TRUE
+1989,1990,62,ACTOR IN A LEADING ROLE,Daniel Day Lewis,My Left Foot,TRUE
+1989,1990,62,ACTOR IN A SUPPORTING ROLE,Denzel Washington,Glory,TRUE
+1989,1990,62,ACTRESS IN A LEADING ROLE,Jessica Tandy,Driving Miss Daisy,TRUE
+1989,1990,62,ACTRESS IN A SUPPORTING ROLE,Brenda Fricker,My Left Foot,TRUE
+1989,1990,62,BEST PICTURE,"Richard D. Zanuck and Lili Fini Zanuck, Producers",Driving Miss Daisy,TRUE
+1990,1991,63,ACTOR IN A LEADING ROLE,Jeremy Irons,Reversal of Fortune,TRUE
+1990,1991,63,ACTOR IN A SUPPORTING ROLE,Joe Pesci,Good Fellas,TRUE
+1990,1991,63,ACTRESS IN A LEADING ROLE,Kathy Bates,Misery,TRUE
+1990,1991,63,ACTRESS IN A SUPPORTING ROLE,Whoopi Goldberg,Ghost,TRUE
+1990,1991,63,BEST PICTURE,"Jim Wilson and Kevin Costner, Producers",Dances With Wolves,TRUE
+1991,1992,64,ACTOR IN A LEADING ROLE,Anthony Hopkins,The Silence of the Lambs,TRUE
+1991,1992,64,ACTOR IN A SUPPORTING ROLE,Jack Palance,City Slickers,TRUE
+1991,1992,64,ACTRESS IN A LEADING ROLE,Jodie Foster,The Silence of the Lambs,TRUE
+1991,1992,64,ACTRESS IN A SUPPORTING ROLE,Mercedes Ruehl,The Fisher King,TRUE
+1991,1992,64,BEST PICTURE,"Edward Saxon, Kenneth Utt and Ron Bozman, Producers",The Silence of the Lambs,TRUE
+1992,1993,65,ACTOR IN A LEADING ROLE,Al Pacino,Scent of a Woman,TRUE
+1992,1993,65,ACTOR IN A SUPPORTING ROLE,Gene Hackman,Unforgiven,TRUE
+1992,1993,65,ACTRESS IN A LEADING ROLE,Emma Thompson,Howards End,TRUE
+1992,1993,65,ACTRESS IN A SUPPORTING ROLE,Marisa Tomei,My Cousin Vinny,TRUE
+1992,1993,65,BEST PICTURE,"Clint Eastwood, Producer",Unforgiven,TRUE
+1993,1994,66,ACTOR IN A LEADING ROLE,Tom Hanks,Philadelphia,TRUE
+1993,1994,66,ACTOR IN A SUPPORTING ROLE,Tommy Lee Jones,The Fugitive,TRUE
+1993,1994,66,ACTRESS IN A LEADING ROLE,Holly Hunter,The Piano,TRUE
+1993,1994,66,ACTRESS IN A SUPPORTING ROLE,Anna Paquin,The Piano,TRUE
+1993,1994,66,BEST PICTURE,"Steven Spielberg, Gerald R. Molen and Branko Lustig, Producers",Schindler's List,TRUE
+1994,1995,67,ACTOR IN A LEADING ROLE,Tom Hanks,Forrest Gump,TRUE
+1994,1995,67,ACTOR IN A SUPPORTING ROLE,Martin Landau,Ed Wood,TRUE
+1994,1995,67,ACTRESS IN A LEADING ROLE,Jessica Lange,Blue Sky,TRUE
+1994,1995,67,ACTRESS IN A SUPPORTING ROLE,Dianne Wiest,Bullets over Broadway,TRUE
+1994,1995,67,BEST PICTURE,"Wendy Finerman, Steve Tisch and Steve Starkey, Producers",Forrest Gump,TRUE
+1995,1996,68,ACTOR IN A LEADING ROLE,Nicolas Cage,Leaving Las Vegas,TRUE
+1995,1996,68,ACTOR IN A SUPPORTING ROLE,Kevin Spacey,The Usual Suspects,TRUE
+1995,1996,68,ACTRESS IN A LEADING ROLE,Susan Sarandon,Dead Man Walking,TRUE
+1995,1996,68,ACTRESS IN A SUPPORTING ROLE,Mira Sorvino,Mighty Aphrodite,TRUE
+1995,1996,68,BEST PICTURE,"Mel Gibson, Alan Ladd, Jr. and Bruce Davey, Producers",Braveheart,TRUE
+1996,1997,69,ACTOR IN A LEADING ROLE,Geoffrey Rush,Shine,TRUE
+1996,1997,69,ACTOR IN A SUPPORTING ROLE,"Cuba Gooding, Jr.",Jerry Maguire,TRUE
+1996,1997,69,ACTRESS IN A LEADING ROLE,Frances McDormand,Fargo,TRUE
+1996,1997,69,ACTRESS IN A SUPPORTING ROLE,Juliette Binoche,The English Patient,TRUE
+1996,1997,69,BEST PICTURE,"Saul Zaentz, Producer",The English Patient,TRUE
+1997,1998,70,ACTOR IN A LEADING ROLE,Jack Nicholson,As Good as It Gets,TRUE
+1997,1998,70,ACTOR IN A SUPPORTING ROLE,Robin Williams,Good Will Hunting,TRUE
+1997,1998,70,ACTRESS IN A LEADING ROLE,Helen Hunt,As Good as It Gets,TRUE
+1997,1998,70,ACTRESS IN A SUPPORTING ROLE,Kim Basinger,L.A. Confidential,TRUE
+1997,1998,70,BEST PICTURE,"James Cameron and Jon Landau, Producers",Titanic,TRUE
+1998,1999,71,ACTOR IN A LEADING ROLE,Roberto Benigni,Life Is Beautiful,TRUE
+1998,1999,71,ACTOR IN A SUPPORTING ROLE,James Coburn,Affliction,TRUE
+1998,1999,71,ACTRESS IN A LEADING ROLE,Gwyneth Paltrow,Shakespeare in Love,TRUE
+1998,1999,71,ACTRESS IN A SUPPORTING ROLE,Judi Dench,Shakespeare in Love,TRUE
+1998,1999,71,BEST PICTURE,"David Parfitt, Donna Gigliotti, Harvey Weinstein, Edward Zwick and Marc Norman, Producers",Shakespeare in Love,TRUE
+1999,2000,72,ACTOR IN A LEADING ROLE,Kevin Spacey,American Beauty,TRUE
+1999,2000,72,ACTOR IN A SUPPORTING ROLE,Michael Caine,The Cider House Rules,TRUE
+1999,2000,72,ACTRESS IN A LEADING ROLE,Hilary Swank,Boys Don't Cry,TRUE
+1999,2000,72,ACTRESS IN A SUPPORTING ROLE,Angelina Jolie,"Girl, Interrupted",TRUE
+1999,2000,72,BEST PICTURE,"Bruce Cohen and Dan Jinks, Producers",American Beauty,TRUE
+2000,2001,73,ACTOR IN A LEADING ROLE,Russell Crowe,Gladiator,TRUE
+2000,2001,73,ACTOR IN A SUPPORTING ROLE,Benicio Del Toro,Traffic,TRUE
+2000,2001,73,ACTRESS IN A LEADING ROLE,Julia Roberts,Erin Brockovich,TRUE
+2000,2001,73,ACTRESS IN A SUPPORTING ROLE,Marcia Gay Harden,Pollock,TRUE
+2000,2001,73,BEST PICTURE,"Douglas Wick, David Franzoni and Branko Lustig, Producers",Gladiator,TRUE
+2001,2002,74,ACTOR IN A LEADING ROLE,Denzel Washington,Training Day,TRUE
+2001,2002,74,ACTOR IN A SUPPORTING ROLE,Jim Broadbent,Iris,TRUE
+2001,2002,74,ACTRESS IN A LEADING ROLE,Halle Berry,Monster's Ball,TRUE
+2001,2002,74,ACTRESS IN A SUPPORTING ROLE,Jennifer Connelly,A Beautiful Mind,TRUE
+2001,2002,74,ANIMATED FEATURE FILM,Aron Warner,Shrek,TRUE
+2001,2002,74,BEST PICTURE,"Brian Grazer and Ron Howard, Producers",A Beautiful Mind,TRUE
+2002,2003,75,ACTOR IN A LEADING ROLE,Adrien Brody,The Pianist,TRUE
+2002,2003,75,ACTOR IN A SUPPORTING ROLE,Chris Cooper,Adaptation,TRUE
+2002,2003,75,ACTRESS IN A LEADING ROLE,Nicole Kidman,The Hours,TRUE
+2002,2003,75,ACTRESS IN A SUPPORTING ROLE,Catherine Zeta-Jones,Chicago,TRUE
+2002,2003,75,ANIMATED FEATURE FILM,Hayao Miyazaki,Spirited Away,TRUE
+2002,2003,75,BEST PICTURE,"Martin Richards, Producer",Chicago,TRUE
+2003,2004,76,ACTOR IN A LEADING ROLE,Sean Penn,Mystic River,TRUE
+2003,2004,76,ACTOR IN A SUPPORTING ROLE,Tim Robbins,Mystic River,TRUE
+2003,2004,76,ACTRESS IN A LEADING ROLE,Charlize Theron,Monster,TRUE
+2003,2004,76,ACTRESS IN A SUPPORTING ROLE,Renée Zellweger,Cold Mountain,TRUE
+2003,2004,76,ANIMATED FEATURE FILM,Andrew Stanton,Finding Nemo,TRUE
+2003,2004,76,BEST PICTURE,"Barrie M. Osborne, Peter Jackson and Fran Walsh, Producers",The Lord of the Rings: The Return of the King,TRUE
+2004,2005,77,ACTOR IN A LEADING ROLE,Jamie Foxx,Ray,TRUE
+2004,2005,77,ACTOR IN A SUPPORTING ROLE,Morgan Freeman,Million Dollar Baby,TRUE
+2004,2005,77,ACTRESS IN A LEADING ROLE,Hilary Swank,Million Dollar Baby,TRUE
+2004,2005,77,ACTRESS IN A SUPPORTING ROLE,Cate Blanchett,The Aviator,TRUE
+2004,2005,77,ANIMATED FEATURE FILM,Brad Bird,The Incredibles,TRUE
+2004,2005,77,BEST PICTURE,"Clint Eastwood, Albert S. Ruddy and Tom Rosenberg, Producers",Million Dollar Baby,TRUE
+2005,2006,78,ACTOR IN A LEADING ROLE,Philip Seymour Hoffman,Capote,TRUE
+2005,2006,78,ACTOR IN A SUPPORTING ROLE,George Clooney,Syriana,TRUE
+2005,2006,78,ACTRESS IN A LEADING ROLE,Reese Witherspoon,Walk the Line,TRUE
+2005,2006,78,ACTRESS IN A SUPPORTING ROLE,Rachel Weisz,The Constant Gardener,TRUE
+2005,2006,78,ANIMATED FEATURE FILM,Nick Park and Steve Box,Wallace & Gromit in The Curse of the Were-Rabbit,TRUE
+2005,2006,78,BEST PICTURE,"Paul Haggis and Cathy Schulman, Producers",Crash,TRUE
+2006,2007,79,ACTOR IN A LEADING ROLE,Forest Whitaker,The Last King of Scotland,TRUE
+2006,2007,79,ACTOR IN A SUPPORTING ROLE,Alan Arkin,Little Miss Sunshine,TRUE
+2006,2007,79,ACTRESS IN A LEADING ROLE,Helen Mirren,The Queen,TRUE
+2006,2007,79,ACTRESS IN A SUPPORTING ROLE,Jennifer Hudson,Dreamgirls,TRUE
+2006,2007,79,ANIMATED FEATURE FILM,George Miller,Happy Feet,TRUE
+2006,2007,79,BEST PICTURE,"Graham King, Producer",The Departed,TRUE
+2007,2008,80,ACTOR IN A LEADING ROLE,Daniel Day-Lewis,There Will Be Blood,TRUE
+2007,2008,80,ACTOR IN A SUPPORTING ROLE,Javier Bardem,No Country for Old Men,TRUE
+2007,2008,80,ACTRESS IN A LEADING ROLE,Marion Cotillard,La Vie en Rose,TRUE
+2007,2008,80,ACTRESS IN A SUPPORTING ROLE,Tilda Swinton,Michael Clayton,TRUE
+2007,2008,80,ANIMATED FEATURE FILM,Brad Bird,Ratatouille,TRUE
+2007,2008,80,BEST PICTURE,"Scott Rudin, Ethan Coen and Joel Coen, Producers",No Country for Old Men,TRUE
+2008,2009,81,ACTOR IN A LEADING ROLE,Sean Penn,Milk,TRUE
+2008,2009,81,ACTOR IN A SUPPORTING ROLE,Heath Ledger,The Dark Knight,TRUE
+2008,2009,81,ACTRESS IN A LEADING ROLE,Kate Winslet,The Reader,TRUE
+2008,2009,81,ACTRESS IN A SUPPORTING ROLE,Penélope Cruz,Vicky Cristina Barcelona,TRUE
+2008,2009,81,ANIMATED FEATURE FILM,Andrew Stanton,WALL-E,TRUE
+2008,2009,81,BEST PICTURE,"Christian Colson, Producer",Slumdog Millionaire,TRUE
+2009,2010,82,ACTOR IN A LEADING ROLE,Jeff Bridges,Crazy Heart,TRUE
+2009,2010,82,ACTOR IN A SUPPORTING ROLE,Christoph Waltz,Inglourious Basterds,TRUE
+2009,2010,82,ACTRESS IN A LEADING ROLE,Sandra Bullock,The Blind Side,TRUE
+2009,2010,82,ACTRESS IN A SUPPORTING ROLE,Mo'Nique,Precious: Based on the Novel 'Push' by Sapphire,TRUE
+2009,2010,82,ANIMATED FEATURE FILM,Pete Docter,Up,TRUE
+2009,2010,82,BEST PICTURE,"Kathryn Bigelow, Mark Boal, Nicolas Chartier and Greg Shapiro, Producers",The Hurt Locker,TRUE
+2010,2011,83,ACTOR IN A LEADING ROLE,Colin Firth,The King's Speech,TRUE
+2010,2011,83,ACTOR IN A SUPPORTING ROLE,Christian Bale,The Fighter,TRUE
+2010,2011,83,ACTRESS IN A LEADING ROLE,Natalie Portman,Black Swan,TRUE
+2010,2011,83,ACTRESS IN A SUPPORTING ROLE,Melissa Leo,The Fighter,TRUE
+2010,2011,83,ANIMATED FEATURE FILM,Lee Unkrich,Toy Story 3,TRUE
+2010,2011,83,BEST PICTURE,"Iain Canning, Emile Sherman and Gareth Unwin, Producers",The King's Speech,TRUE
+2011,2012,84,ACTOR IN A LEADING ROLE,Jean Dujardin,The Artist,TRUE
+2011,2012,84,ACTOR IN A SUPPORTING ROLE,Christopher Plummer,Beginners,TRUE
+2011,2012,84,ACTRESS IN A LEADING ROLE,Meryl Streep,The Iron Lady,TRUE
+2011,2012,84,ACTRESS IN A SUPPORTING ROLE,Octavia Spencer,The Help,TRUE
+2011,2012,84,ANIMATED FEATURE FILM,Gore Verbinski,Rango,TRUE
+2011,2012,84,BEST PICTURE,"Thomas Langmann, Producer",The Artist,TRUE
+2012,2013,85,ACTOR IN A LEADING ROLE,Daniel Day-Lewis,Lincoln,TRUE
+2012,2013,85,ACTOR IN A SUPPORTING ROLE,Christoph Waltz,Django Unchained,TRUE
+2012,2013,85,ACTRESS IN A LEADING ROLE,Jennifer Lawrence,Silver Linings Playbook,TRUE
+2012,2013,85,ACTRESS IN A SUPPORTING ROLE,Anne Hathaway,Les Misérables,TRUE
+2012,2013,85,ANIMATED FEATURE FILM,Mark Andrews and Brenda Chapman,Brave,TRUE
+2012,2013,85,BEST PICTURE,"Grant Heslov, Ben Affleck and George Clooney, Producers",Argo,TRUE
+2013,2014,86,ACTOR IN A LEADING ROLE,Matthew McConaughey,Dallas Buyers Club,TRUE
+2013,2014,86,ACTOR IN A SUPPORTING ROLE,Jared Leto,Dallas Buyers Club,TRUE
+2013,2014,86,ACTRESS IN A LEADING ROLE,Cate Blanchett,Blue Jasmine,TRUE
+2013,2014,86,ACTRESS IN A SUPPORTING ROLE,Lupita Nyong'o,12 Years a Slave,TRUE
+2013,2014,86,ANIMATED FEATURE FILM,"Chris Buck, Jennifer Lee and Peter Del Vecho",Frozen,TRUE
+2013,2014,86,BEST PICTURE,"Brad Pitt, Dede Gardner, Jeremy Kleiner, Steve McQueen and Anthony Katagas, Producers",12 Years a Slave,TRUE
+2014,2015,87,ACTOR IN A LEADING ROLE,Eddie Redmayne,The Theory of Everything,TRUE
+2014,2015,87,ACTOR IN A SUPPORTING ROLE,J.K. Simmons,Whiplash,TRUE
+2014,2015,87,ACTRESS IN A LEADING ROLE,Julianne Moore,Still Alice,TRUE
+2014,2015,87,ACTRESS IN A SUPPORTING ROLE,Patricia Arquette,Boyhood,TRUE
+2014,2015,87,ANIMATED FEATURE FILM,"Don Hall, Chris Williams and Roy Conli",Big Hero 6,TRUE
+2014,2015,87,BEST PICTURE,"Alejandro G. Iñárritu, John Lesher and James W. Skotchdopole, Producers",Birdman or (The Unexpected Virtue of Ignorance),TRUE
+2015,2016,88,ACTOR IN A LEADING ROLE,Leonardo DiCaprio,The Revenant,TRUE
+2015,2016,88,ACTOR IN A SUPPORTING ROLE,Mark Rylance,Bridge of Spies,TRUE
+2015,2016,88,ACTRESS IN A LEADING ROLE,Brie Larson,Room,TRUE
+2015,2016,88,ACTRESS IN A SUPPORTING ROLE,Alicia Vikander,The Danish Girl,TRUE
+2015,2016,88,ANIMATED FEATURE FILM,Pete Docter and Jonas Rivera,Inside Out,TRUE
+2015,2016,88,BEST PICTURE,"Michael Sugar, Steve Golin, Nicole Rocklin and Blye Pagon Faust, Producers",Spotlight,TRUE
+2016,2017,89,ACTOR IN A LEADING ROLE,Casey Affleck,Manchester by the Sea,TRUE
+2016,2017,89,ACTOR IN A SUPPORTING ROLE,Mahershala Ali,Moonlight,TRUE
+2016,2017,89,ACTRESS IN A LEADING ROLE,Emma Stone,La La Land,TRUE
+2016,2017,89,ACTRESS IN A SUPPORTING ROLE,Viola Davis,Fences,TRUE
+2016,2017,89,ANIMATED FEATURE FILM,"Byron Howard, Rich Moore and Clark Spencer",Zootopia,TRUE
+2016,2017,89,BEST PICTURE,"Adele Romanski, Dede Gardner and Jeremy Kleiner, Producers",Moonlight,TRUE
+2017,2018,90,ACTOR IN A LEADING ROLE,Gary Oldman,Darkest Hour,TRUE
+2017,2018,90,ACTOR IN A SUPPORTING ROLE,Sam Rockwell,"Three Billboards outside Ebbing, Missouri",TRUE
+2017,2018,90,ACTRESS IN A LEADING ROLE,Frances McDormand,"Three Billboards outside Ebbing, Missouri",TRUE
+2017,2018,90,ACTRESS IN A SUPPORTING ROLE,Allison Janney,"I, Tonya",TRUE
+2017,2018,90,ANIMATED FEATURE FILM,Lee Unkrich and Darla K. Anderson,Coco,TRUE
+2017,2018,90,BEST PICTURE,"Guillermo del Toro and J. Miles Dale, Producers",The Shape of Water,TRUE
+2018,2019,91,ACTOR IN A LEADING ROLE,Rami Malek,Bohemian Rhapsody,TRUE
+2018,2019,91,ACTOR IN A SUPPORTING ROLE,Mahershala Ali,Green Book,TRUE
+2018,2019,91,ACTRESS IN A LEADING ROLE,Olivia Colman,The Favourite,TRUE
+2018,2019,91,ACTRESS IN A SUPPORTING ROLE,Regina King,If Beale Street Could Talk,TRUE
+2018,2019,91,ANIMATED FEATURE FILM,"Bob Persichetti, Peter Ramsey, Rodney Rothman, Phil Lord and Christopher Miller",Spider-Man: Into the Spider-Verse,TRUE
+2018,2019,91,BEST PICTURE,"Jim Burke, Charles B. Wessler, Brian Currie, Peter Farrelly and Nick Vallelonga, Producers",Green Book,TRUE
+2019,2020,92,ACTOR IN A LEADING ROLE,Joaquin Phoenix,Joker,TRUE
+2019,2020,92,ACTOR IN A SUPPORTING ROLE,Brad Pitt,Once upon a Time...in Hollywood,TRUE
+2019,2020,92,ACTRESS IN A LEADING ROLE,Renée Zellweger,Judy,TRUE
+2019,2020,92,ACTRESS IN A SUPPORTING ROLE,Laura Dern,Marriage Story,TRUE
+2019,2020,92,ANIMATED FEATURE FILM,"Josh Cooley, Mark Nielsen and Jonas Rivera",Toy Story 4,TRUE
+2019,2020,92,BEST PICTURE,"Kwak Sin Ae and Bong Joon Ho, Producers",Parasite,TRUE
